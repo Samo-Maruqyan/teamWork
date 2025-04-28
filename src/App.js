@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    sd
+    <h1>barev</h1>
   );
 }
 
